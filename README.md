@@ -5,6 +5,7 @@ A tool/utility to convert images/frames to videos.
 - videoshow npm package
 
 ## Tech Stack/ Required Installations
+- ffmpeg
 - Git
 - Node
 - NPM
